@@ -1,0 +1,17 @@
+.main{
+    height: 600px;
+    width: 1000px;
+    background-color: aquamarine;
+}
+
+.main .html{
+    height:100px ;
+    width:180px ;
+    background-color:orangered ;
+}
+
+.main2 .css{
+    height: 120px;
+    width: 190px;
+    background-color: chocolate;
+}
